@@ -7,5 +7,5 @@ It is implemented in Go, with no third-party libraries.
 
 
 ### Parser
-Monkey has a recursive descent parser. Specifically a Pratt parse which has an operator precedence approach.
+Monkey has a recursive descent parser. Specifically a Pratt parser, which has an operator precedence approach.
 If you want to know more about this parsing algorithm [this](https://dev.to/jrop/pratt-parsing) is a great article explaining it.
